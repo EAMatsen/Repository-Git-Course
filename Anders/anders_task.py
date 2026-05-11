@@ -8,8 +8,8 @@ Goal:
 
 
 def add_one(number):
-    # TODO: Return number + 1
-    return None
+    new_number = number + 1
+    return new_number
 
 
 # Test case for Anders
