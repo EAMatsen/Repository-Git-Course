@@ -8,8 +8,8 @@ Goal:
 
 
 def celsius_to_fahrenheit(celsius):
-    # TODO: Use the formula and return the Fahrenheit value
-    return None
+    Farenheit = (celsius * 9 / 5) + 32
+    return Farenheit
 
 
 # Test case for Cecilie
